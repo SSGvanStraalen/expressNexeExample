@@ -1,0 +1,25 @@
+{
+  "name": "expressnexeexample",
+  "version": "1.0.0",
+  "description": "example project how to use nexe with express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "compileToExe": "node compileToExe",
+    "test": "none"
+  },
+  "keywords": [
+    "nexe",
+    "express",
+    "example"
+  ],
+  "author": "Sven van Straalen",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "copy-dir": "^1.1.0",
+    "nexe": "^3.3.2"
+  }
+}
