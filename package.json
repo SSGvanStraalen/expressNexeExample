@@ -16,7 +16,7 @@
   "author": "Sven van Straalen",
   "license": "UNLICENSED",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   },
   "devDependencies": {
     "copy-dir": "^1.1.0",
